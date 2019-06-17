@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sparkStreaming" />
+        <module name="sparkStreaming-kafka" />
       </profile>
     </annotationProcessing>
   </component>
